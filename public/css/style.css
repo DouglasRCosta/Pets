@@ -1,6 +1,6 @@
 :root {
-    --pagebg: #FFF;
-    --main: #102581;
+    --pagebg: rgb(218, 218, 218);
+    --main: #811010;
     --bglink: rgba(0, 0, 0, 0.3);
     --darkbg: #FFF;
     --lightbg: #000;
@@ -115,7 +115,7 @@ h2 {
 
 footer {
     border-top: 1px solid var(--lighter);
-    padding: 20px 0 !important;
+    padding: 20px 0px !important;
     text-align: center;
     font-size: 16px;
     color: var(--main);
